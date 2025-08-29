@@ -6,7 +6,7 @@ Overview
 The main goal of this project is to provide a data driven tool that will assist doctors as well as patients to detect and prevent cardiovascular diseases.
 
 Dataset
-The dataset used in this project is the Heart Disease Data from Kaggle, available here. It contains various attributes related to heart disease.
+The dataset used in this project is the Heart Disease Data from Kaggle. It contains various attributes related to heart disease.
 
 Tech Stack
 Programming language : Python
